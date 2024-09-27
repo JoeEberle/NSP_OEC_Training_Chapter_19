@@ -788,7 +788,32 @@ Lightning strike injuries can vary in severity, but immediate action, particular
 
 
 
-
+## Key Terms 
+ 1. **Amputation** - The removal of a limb or extremity due to trauma, medical conditions, or surgery. 
+  2. **Avulsion** - An injury where a body structure is forcibly detached from its normal point of insertion, such as skin being torn away. 
+  3. **Bandage** - A strip of material used to bind a wound or protect an injured part of the body. 
+  4. **Burn** - An injury to skin or other tissues caused by heat, chemicals, electricity, or radiation. 
+  5. **Compartment Syndrome** - A serious condition where increased pressure within a muscle compartment reduces blood flow, potentially leading to muscle and nerve damage. 
+  6. **Compression Dressing** - A type of bandage applied tightly to reduce swelling and support the affected area, often used in the management of bleeding or injuries. 
+  7. **Crush Injury** - Damage caused by extreme force applied to a body part, leading to compression of tissues, blood vessels, and nerves. 
+  8. **Dressing** - A sterile covering placed over a wound to protect it from contamination and absorb exudate. 
+  9. **Ecchymosis** - The discoloration of the skin resulting from bleeding underneath, typically caused by bruising. 
+  10. **Exsanguination** - Severe blood loss, often to the point of death, typically caused by trauma or injury. 
+  11. **Hematoma** - A collection of blood outside of blood vessels, caused by an injury or trauma, leading to swelling and pain. 
+  12. **Hemorrhage** - Excessive or uncontrolled bleeding, either internal or external, that can be life-threatening if not treated. 
+  13. **Hemostatic Dressing** - A specialized dressing used to help control bleeding by promoting blood clotting at the wound site. 
+  14. **Impaled Object** - An object that has penetrated and is lodged in a body part, which should not be removed until medical help is available. 
+  15. **Incision** - A surgical cut made in the skin or tissue to allow access or exposure for medical procedures. 
+  16. **Laceration** - A deep cut or tear in skin or flesh caused by trauma or injury. 
+  17. **Mucous Membranes** - The moist tissue lining body cavities that are open to the external environment, such as the mouth and nose. 
+  18. **Occlusive Dressing** - A dressing that forms a seal over a wound, preventing air and contaminants from entering and promoting a sterile environment. 
+  19. **Puncture** - A small, deep wound caused by a sharp object that penetrates the skin and underlying tissue. 
+  20. **R.I.S.E (Rest. Ice. Splint. Elevate)** - A first aid approach to treating soft tissue injuries by resting, applying ice, splinting for stabilization, and elevating the affected area. 
+  21. **Scald** - A burn injury caused by hot liquids or steam. 
+  22. **Subungual Hematoma** - A collection of blood under a fingernail or toenail, often caused by trauma to the nail bed. 
+  23. **Tourniquet** - A device used to apply pressure to a limb or extremity to stop the flow of blood through a vein or artery. 
+  24. **Universal Dressing** - A large, sterile dressing used to cover major wounds or burns to control bleeding and prevent contamination. 
+ 
 ![Image image_filename](sample.png)
 
 ## Getting Started
@@ -815,7 +840,7 @@ To get started with the **Nsp Oec Training Chapter 19** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_19.png)  <br>
+ ![additional_image](NSP_OEC_Training_Chapter_19.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](soft_tissue_RISE.png)  <br>
     
 
 ## Github    
