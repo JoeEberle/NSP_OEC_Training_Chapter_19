@@ -843,11 +843,8 @@ To get started with the **Nsp Oec Training Chapter 19** solution repository, fol
  ![additional_image](NSP_OEC_Training_Chapter_19.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](soft_tissue_RISE.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
