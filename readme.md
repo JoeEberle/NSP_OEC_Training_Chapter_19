@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 19
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Chapter 19: Soft-Tissue Injuries and Burns 
 
 1. List the four functions of the skin.
@@ -812,7 +830,13 @@ Lightning strike injuries can vary in severity, but immediate action, particular
   22. **Subungual Hematoma** - A collection of blood under a fingernail or toenail, often caused by trauma to the nail bed. 
   23. **Tourniquet** - A device used to apply pressure to a limb or extremity to stop the flow of blood through a vein or artery. 
   24. **Universal Dressing** - A large, sterile dressing used to cover major wounds or burns to control bleeding and prevent contamination. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
