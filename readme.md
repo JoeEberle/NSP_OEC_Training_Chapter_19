@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 19 - National Ski Patrol - Outdoor Emergency Care chapter 19
-National Ski Patrol - Outdoor Emergency Care chapter 19
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 19 - National Ski Patrol - Outdoor Emergency Care chapter 19![Image image_filename](code.png)
 ## Chapter 19: Soft-Tissue Injuries and Burns 
 
 1. List the four functions of the skin.
@@ -813,9 +806,7 @@ Lightning strike injuries can vary in severity, but immediate action, particular
   22. **Subungual Hematoma** - A collection of blood under a fingernail or toenail, often caused by trauma to the nail bed. 
   23. **Tourniquet** - A device used to apply pressure to a limb or extremity to stop the flow of blood through a vein or artery. 
   24. **Universal Dressing** - A large, sterile dressing used to cover major wounds or burns to control bleeding and prevent contamination. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 19** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -830,6 +821,9 @@ To get started with the **Nsp Oec Training Chapter 19** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -839,13 +833,11 @@ To get started with the **Nsp Oec Training Chapter 19** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_19.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](soft_tissue_RISE.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
