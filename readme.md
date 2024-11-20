@@ -84,7 +84,7 @@ To assess a **soft-tissue injury**, follow these key steps to identify the sever
 
 ### 1. **Scene Safety and Initial Assessment**:
    - Ensure the environment is safe for both you and the patient.
-   - Introduce yourself, ask for consent to provide care, and assess the patientâ€™s overall condition (e.g., level of consciousness, pain).
+   - Introduce yourself, ask for consent to provide care, and assess the patient’s overall condition (e.g., level of consciousness, pain).
 
 ### 2. **Visual Inspection**:
    - **Expose the area**: Gently remove or cut away clothing if necessary to inspect the injury.
@@ -137,14 +137,14 @@ After the assessment, provide appropriate care, which may include wound cleaning
 
 ### **3. Apply the R.I.C.E. Protocol**:
    The **R.I.C.E.** protocol is the most common method of caring for closed soft-tissue injuries:
-   - **R â€“ Rest**: Advise the patient to stop using the injured area to prevent further damage.
-   - **I â€“ Ice**: Apply an ice pack or cold compress to the injured area for **15-20 minutes** at a time. This helps reduce swelling, inflammation, and pain. Ensure a barrier (e.g., cloth) is between the ice and the skin to avoid frostbite.
-   - **C â€“ Compression**: Use an elastic bandage or wrap to apply **gentle compression** to the area. This helps control swelling and provides support. Ensure itâ€™s not too tight, as it can impair circulation.
-   - **E â€“ Elevation**: Elevate the injured part above heart level, if possible, to reduce swelling and promote circulation.
+   - **R – Rest**: Advise the patient to stop using the injured area to prevent further damage.
+   - **I – Ice**: Apply an ice pack or cold compress to the injured area for **15-20 minutes** at a time. This helps reduce swelling, inflammation, and pain. Ensure a barrier (e.g., cloth) is between the ice and the skin to avoid frostbite.
+   - **C – Compression**: Use an elastic bandage or wrap to apply **gentle compression** to the area. This helps control swelling and provides support. Ensure it’s not too tight, as it can impair circulation.
+   - **E – Elevation**: Elevate the injured part above heart level, if possible, to reduce swelling and promote circulation.
 
 ### **4. Monitor Circulation, Sensation, and Movement (CSM)**:
    - **Circulation**: Check for a pulse below the injured area to ensure proper blood flow.
-   - **Sensation**: Ask if the patient feels normal sensation in the area or if thereâ€™s numbness or tingling.
+   - **Sensation**: Ask if the patient feels normal sensation in the area or if there’s numbness or tingling.
    - **Movement**: Check if the patient can move the affected body part without increased pain or difficulty.
 
 ### **5. Pain Management**:
@@ -168,7 +168,7 @@ These steps help manage closed soft-tissue injuries effectively and promote heal
 
 ## 19.6 Describe and demonstrate care for open soft-tissue injuries.
 
-**Open soft-tissue injuries** involve a break in the skin, exposing underlying tissues. Types include **abrasions, lacerations, punctures, avulsions**, and **amputations**. Hereâ€™s how to provide care for these injuries:
+**Open soft-tissue injuries** involve a break in the skin, exposing underlying tissues. Types include **abrasions, lacerations, punctures, avulsions**, and **amputations**. Here’s how to provide care for these injuries:
 
 ### **1. Scene Safety and Initial Assessment**:
    - **Ensure scene safety**: Make sure it's safe for both you and the patient.
@@ -187,7 +187,7 @@ These steps help manage closed soft-tissue injuries effectively and promote heal
 
 ### **4. Apply Sterile Dressing**:
    - Cover the wound with a **sterile gauze pad** or dressing.
-   - Secure the dressing with an **elastic bandage** or tape to hold it in place, ensuring itâ€™s not too tight to cut off circulation.
+   - Secure the dressing with an **elastic bandage** or tape to hold it in place, ensuring it’s not too tight to cut off circulation.
 
 ### **5. Monitor Circulation, Sensation, and Movement (CSM)**:
    - **Circulation**: Check for a pulse below the injury site.
@@ -208,7 +208,7 @@ These steps help manage closed soft-tissue injuries effectively and promote heal
    - Continue to monitor the patient for signs of shock, and ensure they remain stable during transport or while waiting for emergency medical services (EMS).
 
 ### **9. Documentation**:
-   - Document the time of injury, type of wound, any first aid performed (such as applying a tourniquet), and the patientâ€™s response to care.
+   - Document the time of injury, type of wound, any first aid performed (such as applying a tourniquet), and the patient’s response to care.
 
 ### **Demonstration Example**:
 1. **Control Bleeding**: You apply direct pressure to a laceration on the forearm using a sterile gauze pad. The bleeding slows, and you secure the gauze with a pressure bandage.
@@ -221,7 +221,7 @@ These steps help to minimize further injury, control infection, and stabilize th
 
 ## 19.7 Explain the difference between thermal, chemical, electrical, lightning, and radiation burns, and the treatment for each.
 
-Hereâ€™s an explanation of the different types of burnsâ€”**thermal, chemical, electrical, lightning, and radiation burns**â€”and their appropriate treatments:
+Here’s an explanation of the different types of burns—**thermal, chemical, electrical, lightning, and radiation burns**—and their appropriate treatments:
 
 ### **1. Thermal Burns**:
    - **Cause**: Result from exposure to heat sources, such as fire, hot liquids, steam, or hot surfaces.
@@ -345,7 +345,7 @@ In summary, SPF measures how well sunscreen protects against UVB rays, and regul
 ## 19.9 Explain how to assess and care for a burn.
 
 ### **Assessing a Burn**:
-When assessing a burn, itâ€™s important to determine its **severity**, **depth**, and **extent**. Follow these steps:
+When assessing a burn, it’s important to determine its **severity**, **depth**, and **extent**. Follow these steps:
 
 1. **Identify the Cause**:
    - Determine if the burn was caused by **thermal**, **chemical**, **electrical**, or **radiation** (e.g., sunburn) exposure. This can influence how the burn is treated.
@@ -407,10 +407,10 @@ Burn care depends on the **type** and **severity** of the burn. Follow these ste
      - The burn was caused by **chemicals**, **electricity**, or a **fire**.
      - The patient shows signs of **shock** (pale skin, rapid heartbeat, confusion).
 
-### **Important Donâ€™ts**:
-- **Donâ€™t use ice**: It can worsen tissue damage.
-- **Donâ€™t apply butter or ointments** to severe burns.
-- **Donâ€™t break blisters**, as this increases the risk of infection.
+### **Important Don’ts**:
+- **Don’t use ice**: It can worsen tissue damage.
+- **Don’t apply butter or ointments** to severe burns.
+- **Don’t break blisters**, as this increases the risk of infection.
   
 ### **Conclusion**:
 Assessing and caring for a burn requires understanding its cause, depth, and extent. Cooling the burn, covering it properly, preventing infection, and managing pain are critical first steps. For serious burns, always seek medical attention immediately.
@@ -473,7 +473,7 @@ Understanding the classification of burns by **depth of injury** helps determine
 
 ## 19.11 Explain and demonstrate the different methods to control bleeding, including application of a tourniquet.
 
-Controlling bleeding is a critical skill in first aid. The goal is to stop the bleeding as quickly as possible to prevent excessive blood loss, shock, or death. The methods to control bleeding include **direct pressure**, **elevation**, **pressure points**, and in severe cases, the use of a **tourniquet**. Hereâ€™s a breakdown of each method:
+Controlling bleeding is a critical skill in first aid. The goal is to stop the bleeding as quickly as possible to prevent excessive blood loss, shock, or death. The methods to control bleeding include **direct pressure**, **elevation**, **pressure points**, and in severe cases, the use of a **tourniquet**. Here’s a breakdown of each method:
 
 ### **1. Direct Pressure**
    - **Description**: This is the primary method to control most bleeding. Applying firm pressure directly over the wound helps to compress the blood vessels and stop blood flow.
@@ -494,7 +494,7 @@ Controlling bleeding is a critical skill in first aid. The goal is to stop the b
    - **Demonstration Example**: After placing pressure on a wound on the leg, you lift the leg onto a chair to keep it elevated while maintaining pressure on the wound.
 
 ### **3. Pressure Points**
-   - **Description**: If direct pressure and elevation arenâ€™t enough, pressure points can be used to temporarily slow blood flow to a limb by pressing on major arteries that supply blood to the area.
+   - **Description**: If direct pressure and elevation aren’t enough, pressure points can be used to temporarily slow blood flow to a limb by pressing on major arteries that supply blood to the area.
    - **How to Apply**:
      1. For the **arm**, apply pressure to the **brachial artery**, located on the inside of the upper arm between the biceps and triceps.
      2. For the **leg**, apply pressure to the **femoral artery**, located in the groin area where the leg meets the pelvis.
@@ -506,12 +506,12 @@ Controlling bleeding is a critical skill in first aid. The goal is to stop the b
    - **Description**: A tourniquet is used as a last resort when the bleeding is life-threatening and cannot be controlled by other methods, such as in cases of severe limb trauma or amputation.
    - **How to Apply**:
      1. Place the tourniquet **2 to 3 inches above the wound** (but not directly over a joint, such as the elbow or knee).
-     2. Tighten the tourniquet until the bleeding **stops**. The patient may feel pain as the tourniquet is tightened, but itâ€™s crucial to stop the blood flow.
+     2. Tighten the tourniquet until the bleeding **stops**. The patient may feel pain as the tourniquet is tightened, but it’s crucial to stop the blood flow.
      3. Secure the tourniquet in place.
      4. Note the **time** the tourniquet was applied and inform emergency responders.
      5. Once applied, do **not loosen or remove the tourniquet** until professional help arrives, as this can cause further blood loss.
 
-   - **Demonstration Example**: You encounter a severe wound with arterial bleeding on a personâ€™s leg. After direct pressure fails to stop the bleeding, you apply a commercial tourniquet 3 inches above the wound, tighten it until the bleeding stops, and record the time of application.
+   - **Demonstration Example**: You encounter a severe wound with arterial bleeding on a person’s leg. After direct pressure fails to stop the bleeding, you apply a commercial tourniquet 3 inches above the wound, tighten it until the bleeding stops, and record the time of application.
 
 ### **5. Hemostatic Dressings**
    - **Description**: These are special dressings impregnated with substances that help clot blood faster and are useful in areas where a tourniquet cannot be applied (e.g., neck, groin).
@@ -529,7 +529,7 @@ Controlling bleeding is a critical skill in first aid. The goal is to stop the b
 2. **Elevation**: Raise the injured limb above heart level while maintaining pressure.
 3. **Pressure Points**: Apply pressure to major arteries to slow bleeding in arms or legs.
 4. **Tourniquet**: Used as a last resort for life-threatening bleeding when other methods fail. Properly placed 2-3 inches above the wound.
-5. **Hemostatic Dressings**: Advanced dressings to assist clotting, used where a tourniquet isnâ€™t applicable.
+5. **Hemostatic Dressings**: Advanced dressings to assist clotting, used where a tourniquet isn’t applicable.
 
 Each method should be employed based on the severity and location of the injury, with the tourniquet reserved for the most critical situations where direct pressure alone is insufficient.
 
@@ -582,7 +582,7 @@ Applying a **dressing** and **bandage** is an important step in wound care to pr
 
 #### **C. Check Circulation**:
    - After applying the bandage, check the circulation beyond the wound site (e.g., fingers or toes) by ensuring the skin color remains normal and there's no numbness or tingling.
-   - If necessary, loosen the bandage if itâ€™s too tight.
+   - If necessary, loosen the bandage if it’s too tight.
 
 ### **2. Applying an Occlusive Dressing**:
 
@@ -593,7 +593,7 @@ Applying a **dressing** and **bandage** is an important step in wound care to pr
 1. **Clean the wound**: Gently clean the area around the wound.
 2. **Place the occlusive dressing**: 
    - If using a commercial occlusive dressing (e.g., a chest seal), remove the protective backing and place it directly over the wound, ensuring a tight seal.
-   - If you donâ€™t have a commercial occlusive dressing, you can improvise using **plastic wrap** or **aluminum foil** and place it over the wound.
+   - If you don’t have a commercial occlusive dressing, you can improvise using **plastic wrap** or **aluminum foil** and place it over the wound.
 3. **Secure the dressing**: Tape the occlusive dressing down on **three sides**, leaving one side open. This allows air to escape while preventing air from entering the wound (important for **sucking chest wounds**).
 4. **Monitor for complications**: Watch for signs of **tension pneumothorax** (difficulty breathing, increased chest pain), which may require immediate medical intervention.
 
@@ -606,7 +606,7 @@ Applying a **dressing** and **bandage** is an important step in wound care to pr
    A **stabilizing dressing** is used to immobilize a wound or injury, typically applied to joints or fractures to limit movement and prevent further injury.
 
 #### **B. How to Apply**:
-1. **Place a sterile dressing**: If thereâ€™s an open wound associated with the fracture, cover it with a sterile dressing first.
+1. **Place a sterile dressing**: If there’s an open wound associated with the fracture, cover it with a sterile dressing first.
 2. **Apply padding**: Use soft padding, such as gauze or foam, to protect and cushion the area.
 3. **Stabilize the injury**: 
    - Use a **splint** or **rigid material** (e.g., a piece of wood, padded board, or SAM splint) to stabilize the area. Place the splint along the injured limb to immobilize the joints above and below the injury.
@@ -617,7 +617,7 @@ Applying a **dressing** and **bandage** is an important step in wound care to pr
 - After covering an open wound on a fractured forearm with a sterile dressing, you pad the area with gauze and apply a rigid splint. You secure the splint with an elastic bandage, ensuring it is snug but not too tight, and recheck the patient's pulse.
 
 ### **4. Final Checks**:
-   - After applying any dressing and bandage, periodically check the **wound** for signs of **infection** (redness, swelling, pus) and ensure that the bandage isnâ€™t too tight by checking **circulation** below the injury site.
+   - After applying any dressing and bandage, periodically check the **wound** for signs of **infection** (redness, swelling, pus) and ensure that the bandage isn’t too tight by checking **circulation** below the injury site.
    - **Reapply dressings** if they become soaked with blood, and always keep the wound clean and protected.
 
 ---
@@ -639,7 +639,7 @@ Proper application of these techniques helps prevent infection, control bleeding
 ## 19.14 Explain which burn patients need to be transferred to a "burn center."
 
 
-Certain burn patients require specialized care at a **burn center** due to the complexity and severity of their injuries. Burn centers are equipped with the necessary resources and specialists to handle complex burn injuries and promote optimal recovery. Hereâ€™s a breakdown of the burn patients who should be transferred to a burn center:
+Certain burn patients require specialized care at a **burn center** due to the complexity and severity of their injuries. Burn centers are equipped with the necessary resources and specialists to handle complex burn injuries and promote optimal recovery. Here’s a breakdown of the burn patients who should be transferred to a burn center:
 
 ### **1. Burns Covering a Large Surface Area**:
    - Patients with **partial-thickness burns** (second-degree) covering **more than 10% of total body surface area (TBSA)**, or **full-thickness burns** (third-degree) of any size, should be transferred.
@@ -708,29 +708,29 @@ Burn centers provide the advanced care, specialized equipment, and expertise nee
 
 ## 19.15 Explain how to assess and treat an individual struck by lightning. 
 
-When assessing and treating an individual struck by lightning, it is essential to act quickly, as lightning strikes can cause severe injuries, including cardiac arrest. Hereâ€™s a step-by-step guide for **assessing** and **treating** a lightning strike victim:
+When assessing and treating an individual struck by lightning, it is essential to act quickly, as lightning strikes can cause severe injuries, including cardiac arrest. Here’s a step-by-step guide for **assessing** and **treating** a lightning strike victim:
 
 ### **1. Scene Safety and Approach**:
    - **Ensure safety**: Lightning can strike the same area multiple times. Before approaching, ensure that the scene is safe and that the storm has passed.
    - **Call for help**: Immediately call **emergency services (911)** or direct someone else to do so.
 
 ### **2. Initial Assessment (Primary Survey)**:
-   **A â€“ Airway**
-   - Check if the patientâ€™s airway is clear. If not, open the airway using the **jaw-thrust maneuver** (especially if there are signs of trauma) or **head-tilt, chin-lift** (if no trauma is suspected).
+   **A – Airway**
+   - Check if the patient’s airway is clear. If not, open the airway using the **jaw-thrust maneuver** (especially if there are signs of trauma) or **head-tilt, chin-lift** (if no trauma is suspected).
 
-   **B â€“ Breathing**
+   **B – Breathing**
    - Check if the patient is breathing. Look for chest rise, listen for breath sounds, and feel for air movement.
    - **If the patient is not breathing**, immediately begin **rescue breathing** or use a bag-valve mask (if trained).
 
-   **C â€“ Circulation**
+   **C – Circulation**
    - Check for a pulse. **Lightning strikes often cause cardiac arrest**.
    - **If there is no pulse**, begin **CPR** with chest compressions (30 compressions, 2 breaths) and use an **AED (automated external defibrillator)** as soon as one is available.
 
-   **D â€“ Disability**
-   - Assess the patientâ€™s level of consciousness using the **AVPU** scale (Alert, Verbal response, Pain response, Unresponsive).
+   **D – Disability**
+   - Assess the patient’s level of consciousness using the **AVPU** scale (Alert, Verbal response, Pain response, Unresponsive).
    - Check for signs of **spinal injury** or head trauma, especially if the person was thrown by the lightning.
 
-   **E â€“ Exposure**
+   **E – Exposure**
    - Remove any **wet clothing** and inspect the body for burns or injuries. Be mindful of **hypothermia**, especially in wet or windy environments, and cover the person with a blanket or dry clothing to keep them warm.
 
 ### **3. Treat Life-Threatening Conditions**:
@@ -821,24 +821,4 @@ Lightning strike injuries can vary in severity, but immediate action, particular
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 19** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_19.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](soft_tissue_RISE.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
